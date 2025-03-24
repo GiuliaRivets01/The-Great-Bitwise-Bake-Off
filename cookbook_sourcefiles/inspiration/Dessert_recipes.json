@@ -1,0 +1,332 @@
+{
+  "recipes": [
+    {
+      "name": "Almost Flourless Chocolate-Orange Cake",
+      "ingredients": [
+        { "amount": "115",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0", "fat": "115", "calories": "1035", "cost": "2.50"},
+        { "amount": "250",  "unit": "g",  "ingredient": "bittersweet chocolate","protein": "25", "fat": "75", "calories": "1250", "cost": "2.79" },
+        { "amount": "6",  "unit": "piece", "ingredient": "large eggs", "protein": "46.8", "fat": "32.4", "calories": "468", "cost": "2"},
+        { "amount": "145", "unit": "g",  "ingredient": "dark brown sugar","protein": "0", "fat": "0", "calories": "580", "cost": "1.29" },
+        { "amount": "2",   "unit": "tbsp",  "ingredient": "flower", "protein": "1.696", "fat": "0.24", "calories": "51.232", "cost": "0.89"},
+        { "amount": "2-3",  "unit": "tbsp",  "ingredient": "orange flavored liqueur","protein": "0", "fat": "0", "calories": "62", "cost": "11.49" },
+        { "amount": "2",  "unit": "tbsp",  "ingredient": "orange zest","protein": "0", "fat": "0", "calories": "11.2", "cost": "1.19" },
+        { "amount": "1/2",  "unit": "tbs",  "ingredient": "kosher salt","protein": "0", "fat": "0", "calories": "0", "cost": "0"  },
+        { "amount": "5",  "unit": "tbsp",  "ingredient": "granulated sugar", "protein": "0", "fat": "0", "calories": "248", "cost": "1.04"  }
+      ]
+    },
+    {
+      "name": "Chewy chocolate cookies",
+      "ingredients": [
+        { "amount": "480",  "unit": "g",  "ingredient": "flour", "protein": "50.88", "fat": "7.2", "calories": "1536.960", "cost": "0.89"   },
+        { "amount": "180",  "unit": "g",  "ingredient": "cocoa powder", "protein": "36", "fat": "18", "calories": "756", "cost": "2.99"   },
+        { "amount": "1",  "unit": "tsp",  "ingredient": "baking soda", "protein": "0", "fat": "0", "calories": "0", "cost": "0"   },
+        { "amount": "1",  "unit": "pinch",  "ingredient": "kosher salt", "protein": "0", "fat": "0", "calories": "0", "cost": "0"  },
+        { "amount": "230",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0", "fat": "230", "calories": "2070", "cost": "2.50"  },
+        { "amount": "480",  "unit": "g",  "ingredient": "sugar", "protein": "0", "fat": "0", "calories": "1920", "cost": "1.04"  },
+        { "amount": "1",  "unit": "tbsp",  "ingredient": "instant coffee granules","protein": "1.25", "fat": "0", "calories": "43.75", "cost": "4.76"  },
+        { "amount": "2",  "unit": "piece",  "ingredient": "eggs","protein": "15.6", "fat": "10.8", "calories": "156", "cost": "2"  },
+        { "amount": "1",  "unit": "tbsp",  "ingredient": "vanilla extract", "protein": "0", "fat": "0", "calories": "15", "cost": "1.25"   },
+        { "amount": "240",  "unit": "g",  "ingredient": "walnuts", "protein": "35.76", "fat": "154.32", "calories": "1611.12", "cost": "2.89"  },
+        { "amount": "120",  "unit": "g",  "ingredient": "chocolate chips", "protein": "1.2", "fat": "24", "calories": "600", "cost": "4.41"  }
+
+      ]
+    },
+    {
+      "name": "Pumpkin cake",
+      "ingredients": [
+        { "amount": "720",  "unit": "g",  "ingredient": "flour", "protein": "76.32", "fat": "10.8", "calories": "2305.44", "cost": "0.89" },
+        { "amount": "2",  "unit": "tsp",  "ingredient": "cinnamon", "protein": "0.4", "fat": "0.1", "calories": "10", "cost": "1"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "baking powder", "protein": "0", "fat": "0", "calories": "5", "cost": "0.65" },
+        { "amount": "1",  "unit": "tsp",  "ingredient": "kosher salt", "protein": "0", "fat": "0", "calories": "0", "cost": "0" },
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "baking soda", "protein": "0", "fat": "0", "calories": "0", "cost": "0" },
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "ground nutmeg", "protein": "0.245", "fat": "0.98", "calories": "12.25", "cost": "3.99" },
+        { "amount": "1/4",  "unit": "tsp",  "ingredient": "ground ginger", "protein": "0", "fat": "0", "calories": "0", "cost": "2.99" },
+        { "amount": "125",  "unit": "g",  "ingredient": "butter", "protein": "0", "fat": "125", "calories": "1125", "cost": "2.15" },
+        { "amount": "270",  "unit": "g",  "ingredient": "brown sugar", "protein": "0", "fat": "0", "calories": "1080", "cost": "1.29" },
+        { "amount": "150",  "unit": "g",  "ingredient": "sugar", "protein": "0", "fat": "0", "calories": "600", "cost": "1.04"},
+        { "amount": "60",  "unit": "ml",  "ingredient": "vegetable oil" , "protein": "0", "fat": "60", "calories": "540", "cost": "2.49"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "vanilla extract" , "protein": "0", "fat": "0", "calories": "15", "cost": "1.25"},
+        { "amount": "240",  "unit": "g",  "ingredient": "pumpkin pure", "protein": "0", "fat": "0", "calories": "96", "cost": "0.95" }
+      ]
+    },
+    {
+      "name": "Sugar cookies",
+      "ingredients": [
+        { "amount": "230",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0", "fat": "230", "calories": "2070", "cost": "2.50"  },
+        { "amount": "50",  "unit": "g",  "ingredient": "light brown sugar","protein": "0", "fat": "0", "calories": "200", "cost": "1.29" },
+        { "amount": "3/4",  "unit": "tsp",  "ingredient": "kosher salt","protein": "0", "fat": "0", "calories": "0", "cost": "0"},
+        { "amount": "350",  "unit": "g",  "ingredient": "granulated sugar","protein": "0", "fat": "0", "calories": "1400", "cost": "1.04"},
+        { "amount": "1",  "unit": "piece",  "ingredient": "egg","protein": "7.8", "fat": "5.4", "calories": "78", "cost": "2"},
+        { "amount": "1",  "unit": "piece",  "ingredient": "egg yolk","protein": "3.04", "fat": "5.13", "calories": "60.8", "cost": "2"},
+        { "amount": "2",  "unit": "tsp",  "ingredient": "vanilla extract","protein": "0", "fat": "0", "calories": "30", "cost": "1.25"},
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "baking powder","protein": "0", "fat": "0", "calories": "2.5", "cost": "0.65"},
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "baking soda","protein": "0", "fat": "0", "calories": "0", "cost": "0"},
+        { "amount": "330",  "unit": "g",  "ingredient": "flour","protein": "34.98", "fat": "4.95", "calories": "1056.66", "cost": "0.89"}
+      ]
+    },
+    {
+      "name": "Big & Buttery Chocolate Chip Cookies",
+      "ingredients": [
+        { "amount": "240",  "unit": "g",  "ingredient": "butter", "protein": "0", "fat": "240", "calories": "2160", "cost": "1.99" },
+        { "amount": "240",  "unit": "g",  "ingredient": "brown sugar", "protein": "0", "fat": "0", "calories": "960", "cost": "1.29" },
+        { "amount": "180",  "unit": "g",  "ingredient": "sugar", "protein": "180", "fat": "0", "calories": "720", "cost": "1.04"  },
+        { "amount": "1",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0", "fat": "0", "calories": "15", "cost": "1.25"  },
+        { "amount": "480",  "unit": "g",  "ingredient": "flour", "protein": "50.88", "fat": "7.2", "calories": "1536.96", "cost": "0.89"  },
+        { "amount": "1",  "unit": "tsp",  "ingredient": "backing soda", "protein": "0", "fat": "0", "calories": "0", "cost": "0"  },
+        { "amount": "340",  "unit": "g",  "ingredient": "chocolate chips", "protein": "3.4", "fat": "68", "calories": "1700", "cost": "2.49"  },
+        { "amount": "480",  "unit": "g",  "ingredient": "chopped walnuts" , "protein": "71.52", "fat": "308.64", "calories": "3222.24", "cost": "2.89" }
+      ]
+    },
+    {
+      "name": "Peanut Butter Cookies",
+      "ingredients": [
+        { "amount": "240",  "unit": "ml",  "ingredient": "shortening", "protein": "0", "fat": "240", "calories": "2185", "cost": "6.99" },
+        { "amount": "240",  "unit": "g",  "ingredient": "peanut butter","protein": "60", "fat": "120", "calories": "1410", "cost": "2.59"  },
+        { "amount": "240",  "unit": "g",  "ingredient": "brown sugar", "protein": "0", "fat": "0", "calories": "960", "cost": "1.29" },
+        { "amount": "3",  "unit": "piece",  "ingredient": "egg", "protein": "23.4", "fat": "16.2", "calories": "234", "cost": "2" },
+        { "amount": "720",  "unit": "g",  "ingredient": "flour", "protein": "76.32", "fat": "10.8", "calories": "0", "cost": "0.89" },
+        { "amount": "2",  "unit": "tsp",  "ingredient": "backing soda", "protein": "0", "fat": "0", "calories": "0", "cost": "0"  },
+        { "amount": "1/4",  "unit": "tsp",  "ingredient": "salt", "protein": "0", "fat": "0", "calories": "0", "cost": "0" }
+      ]
+    },
+
+    {
+      "name": "Brownie Cookies",
+      "ingredients": [
+        { "amount": "480",  "unit": "g",  "ingredient": "chocolate chips", "protein": "4.8", "fat": "96", "calories": "2400", "cost": "2.49"},
+        { "amount": "120",  "unit": "g",  "ingredient": "butter", "protein": "0", "fat": "120", "calories": "1080", "cost": "2.50"},
+        { "amount": "4",  "unit": "piece",  "ingredient": "egg", "protein": "31.2", "fat": "21.6", "calories": "312", "cost": "2"},
+        { "amount": "240",  "unit": "g",  "ingredient": "sugar", "protein": "0", "fat": "0", "calories": "960", "cost": "1.04"},
+        { "amount": "4",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0", "fat": "0", "calories": "60", "cost": "1.25"},
+        { "amount": "2",  "unit": "tbsp",  "ingredient": "instant espresso powder", "protein": "0", "fat": "0", "calories": "87.5", "cost": "4.74"},
+        { "amount": "150",  "unit": "g",  "ingredient": "flour", "protein": "15.9", "fat": "2.25", "calories": "480.3", "cost": "0.89"},
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "baking powder", "protein": "0", "fat": "0", "calories": "3", "cost": "0.65"},
+        { "amount": "320",  "unit": "g",  "ingredient": "chocolate chunks", "protein": "3.2", "fat": "64", "calories": "1600", "cost": "2.49"}
+      ]
+    },
+
+    {
+      "name": "Coffe Shortbread",
+      "ingredients": [
+        { "amount": "240",  "unit": "g",  "ingredient": "butter", "protein": "0", "fat": "240", "calories": "2160", "cost": "1.99" },
+        { "amount": "120",  "unit": "g",  "ingredient": "brown sugar", "protein": "0", "fat": "0", "calories": "480", "cost": "1.29"},
+        { "amount": "2",  "unit": "tbsp",  "ingredient": "instant coffee granules", "protein": "0", "fat": "0", "calories": "87.5", "cost": "4.74"},
+        { "amount": "1/4",  "unit": "tsp",  "ingredient": "salt", "protein": "0", "fat": "0", "calories": "0", "cost": "0" },
+        { "amount": "240",  "unit": "g",  "ingredient": "flour", "protein": "25.44", "fat": "3.6", "calories": "768.48", "cost": "0.89"},
+        { "amount": "120",  "unit": "g",  "ingredient": "chocolate chips", "protein": "1.2", "fat": "24", "calories": "600", "cost": "2.49"},
+        { "amount": "2",  "unit": "tbsp",  "ingredient": "shortening", "protein": "0", "fat": "26", "calories": "230", "cost": "6.99"},
+        { "amount": "120",  "unit": "g",  "ingredient": "baking chips", "protein": "1.2", "fat": "24", "calories": "600", "cost": "2.49"}
+      ]
+    },
+
+    {
+      "name": "Chocolate Chip Oatmeal Cookies",
+      "ingredients": [
+        { "amount": "240",  "unit": "g",  "ingredient": "butter", "protein": "0", "fat": "240", "calories": "2160", "cost": "1.99" },
+        { "amount": "180",  "unit": "g",  "ingredient": "sugar", "protein": "0", "fat": "0", "calories": "720", "cost": "1.04"  },
+        { "amount": "180",  "unit": "g",  "ingredient": "brown sugar", "protein": "0", "fat": "0", "calories": "720", "cost": "1.29"  },
+        { "amount": "2",  "unit": "piece",  "ingredient": "egg", "protein": "15.6", "fat": "10.8", "calories": "156", "cost": "2"  },
+        { "amount": "1",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0", "fat": "0", "calories": "15", "cost": "1.25"  },
+        { "amount": "720",  "unit": "g",  "ingredient": "quick-cooking oats", "protein": "97.92", "fat": "54.72", "calories": "2692.8", "cost": "0.79"  },
+        { "amount": "140",  "unit": "g",  "ingredient": "flour", "protein": "14.84", "fat": "2.1", "calories": "448.28", "cost": "0.89" },
+        { "amount": "100",  "unit": "g",  "ingredient": "instant vanilla pudding mix", "protein": "1.4", "fat": "3.8", "calories": "128.7", "cost": "0.89"  },
+        { "amount": "1",  "unit": "tsp",  "ingredient": "baking soda",  "protein": "0", "fat": "0", "calories": "0", "cost": "0" },
+        { "amount": "1",  "unit": "tsp",  "ingredient": "salt", "protein": "0", "fat": "0", "calories": "0", "cost": "0" },
+        { "amount": "480",  "unit": "g",  "ingredient": "semisweet chocolate chips", "protein": "4.8", "fat": "96", "calories": "2400", "cost": "2.49"  },
+        { "amount": "240",  "unit": "g",  "ingredient": "chopped nuts", "protein": "72", "fat": "96", "calories": "1440", "cost": "2.35"  }
+      ]
+    },
+
+    {
+      "name": "Lemon Tea cookies",
+      "ingredients": [
+        { "amount": "200",  "unit": "g",  "ingredient": "butter", "protein": "0", "fat": "200", "calories": "1800", "cost": "1.99" },
+        { "amount": "120",  "unit": "g",  "ingredient": "sugar", "protein": "0", "fat": "0", "calories": "480", "cost": "1.04" },
+        { "amount": "1",  "unit": "piece",  "ingredient": "egg", "protein": "7.8", "fat": "5.4", "calories": "78", "cost": "2" },
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0", "fat": "0", "calories": "7", "cost": "1.25" },
+        { "amount": "480",  "unit": "g",  "ingredient": "flour", "protein": "50.88", "fat": "7.2", "calories": "1536.96", "cost": "0.89" },
+        { "amount": "60",  "unit": "g",  "ingredient": "chopped walnuts", "protein": "8.94", "fat": "38.58", "calories": "402.78", "cost": "2.89" },
+        { "amount": "4",  "unit": "tsp",  "ingredient": "lemon juice", "protein": "0.08", "fat": "0.14", "calories": "7.3", "cost": "0.69" },
+        { "amount": "3/4",  "unit": "tsp",  "ingredient": "orange zest", "protein": "0", "fat": "0", "calories": "4", "cost": "3.29" },
+        { "amount": "240",  "unit": "g",  "ingredient": "confectioners's sugar", "protein": "0", "fat": "0", "calories": "960", "cost": "1.09" }
+      ]
+    },
+
+    
+    {
+      "name": "Triple chocolate layer cake",
+      "ingredients": [
+        { "amount": "220",  "unit": "g",  "ingredient": "flour", "protein": "23.320", "fat": "3.300", "calories": "704.440", "cost": "0.89"},
+        { "amount": "60",  "unit": "g",  "ingredient": "cocoa powder", "protein": "12.000", "fat": "6.000", "calories": "252.000", "cost": "2.99"},
+        { "amount": "350",  "unit": "g",  "ingredient": "granulated sugar", "protein": "0.0", "fat": "0.0", "calories": "1400.000", "cost": "1.04"},
+        { "amount": "2",  "unit": "tsp",  "ingredient": "baking soda", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "1.79"},
+        { "amount": "2",  "unit": "tsp",  "ingredient": "salt", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "0.0"},
+        { "amount": "2",  "unit": "tsp",  "ingredient": "espresso powder", "protein": "0.550", "fat": "5.940", "calories": "67.100", "cost": "3.99"},
+        { "amount": "120",  "unit": "ml",  "ingredient": "vegetable oil", "protein": "0.0", "fat": "120.000", "calories": "1080.000", "cost": "2.49"},
+        { "amount": "2",  "unit": "piece",  "ingredient": "eggs", "protein": "15.600", "fat": "10.800", "calories": "156.000", "cost": "0.8"},
+        { "amount": "3",  "unit": "tsp",  "ingredient": "pure vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "33.3", "cost": "1.25" },
+        { "amount": "240",  "unit": "ml",  "ingredient": "buttermilk", "protein": "2.400", "fat": "2.400", "calories": "48.000", "cost": "0.79"},
+        { "amount": "240",  "unit": "ml",  "ingredient": "hot coffee", "protein": "24.000", "fat": "0.0", "calories": "840.000", "cost": "0.99"},
+        { "amount": "290",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0.0", "fat": "290.000", "calories": "2610.000", "cost": "2.55"},
+        { "amount": "420",  "unit": "g",  "ingredient": "confectioners's sugar", "protein": "0.0", "fat": "0.0", "calories": "1680.000", "cost": "1.04"},
+        { "amount": "65",  "unit": "g",  "ingredient": "unsweetened cocoa powder", "protein": "13.000", "fat": "6.500", "calories": "273.000", "cost": "2.99"},
+        { "amount": "50",  "unit": "ml",  "ingredient": "heavy cream", "protein": "1.650", "fat": "3.100", "calories": "44.500", "cost": "0.99"}
+      ]
+    },
+
+    {
+      "name": "Strawberry cake",
+      "ingredients": [
+        { "amount": "454",  "unit": "g",  "ingredient": "strawberries", "protein": "3.178", "fat": "1.362", "calories": "145.280", "cost": "3.99"},
+        { "amount": "285",  "unit": "g",  "ingredient": "flour", "protein": "30.210", "fat": "4.275", "calories": "912.570", "cost": "0.89"},
+        { "amount": "2",  "unit": "tsp",  "ingredient": "baking soda", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "1.79"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "salt", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "0.0"},
+        { "amount": "170",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0.0", "fat": "170.000", "calories": "1530.000", "cost": "2.50"},
+        { "amount": "350",  "unit": "g",  "ingredient": "granulated sugar", "protein": "0.0", "fat": "0.0", "calories": "1400.000", "cost": "1.04"},
+        { "amount": "5",  "unit": "piece",  "ingredient": "egg whites", "protein": "22.000", "fat": "7.000", "calories": "103.000", "cost": "2.79"},
+        { "amount": "75",  "unit": "g",  "ingredient": "sour cream", "protein": "1.875", "fat": "14.325", "calories": "150.000", "cost": "1.15"},
+        { "amount": "2",  "unit": "tsp",  "ingredient": "pure vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "33.000", "cost": "1.25"},
+        { "amount": "120",  "unit": "ml",  "ingredient": "whole milk", "protein": "3.960", "fat": "5.400", "calories": "87.480", "cost": "1.15"},
+        { "amount": "25",  "unit": "g",  "ingredient": "freeze-dried strawberies", "protein": "0.175", "fat": "0.075", "calories": "8.000", "cost": "3.99"},
+        { "amount": "226",  "unit": "g",  "ingredient": "cream cheese", "protein": "14.012", "fat": "77.744", "calories": "791.000", "cost": "1.29"},
+        { "amount": "115",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0.0", "fat": "115.000", "calories": "1035.000", "cost": "2.50"},
+        { "amount": "360",  "unit": "g",  "ingredient": "confectioners's sugar", "protein": "0.0", "fat": "0.0", "calories": "1440.000", "cost": "0.95"},
+        { "amount": "2",  "unit": "tbs",  "ingredient": "milk", "protein": "0.396", "fat": "0.540", "calories": "8.748", "cost": "1.15"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "pure vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "17.070", "cost": "4.59"}
+        
+      ]
+    },
+
+    {
+      "name": "Caramel cake",
+      "ingredients": [
+        { "amount": "425",  "unit": "g",  "ingredient": "salted butter", "protein": "0.0", "fat": "425.000", "calories": "3825.000", "cost": "2.15"},
+        { "amount": "125",  "unit": "g",  "ingredient": "golden caster sugar", "protein": "0.0", "fat": "0.0", "calories": "500.000", "cost": "1.29"},
+        { "amount": "100",  "unit": "g",  "ingredient": "light brown sugar", "protein": "0.0", "fat": "0.0", "calories": "400.000", "cost": "1.29"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "17.070", "cost": "4.59"},
+        { "amount": "1",  "unit": "piece",  "ingredient": "egg", "protein": "7.800", "fat": "5.400", "calories": "78.000", "cost": "0.4"},
+        { "amount": "225",  "unit": "g",  "ingredient": "flour", "protein": "23.850", "fat": "3.375", "calories": "720.450", "cost": "0.89"},
+        { "amount": "2",  "unit": "tbsp",  "ingredient": "milk", "protein": "0.112", "fat": "0.336", "calories": "3.920", "cost": "1.15"},
+        { "amount": "400",  "unit": "g",  "ingredient": "icing sugar", "protein": "0.0", "fat": "0.0", "calories": "1600.000", "cost": "1.49"},
+        { "amount": "70",  "unit": "g",  "ingredient": "caramel souce", "protein": "0.0", "fat": "0.0", "calories": "210.000", "cost": "2.15"}
+      ]
+    },
+
+    {
+      "name": "Marmalade Cake",
+      "ingredients": [
+        { "amount": "200",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0.0", "fat": "200.000", "calories": "1800.000", "cost": "2.15"},
+        { "amount": "2",  "unit": "piece",  "ingredient": "unwaxed orange", "protein": "0.0", "fat": "0.0", "calories": "140.000", "cost": "0.45"},
+        { "amount": "340",  "unit": "g",  "ingredient": "golden caster sugar", "protein": "0.0", "fat": "0.0", "calories": "1360.000", "cost": "1.29"},
+        { "amount": "4",  "unit": "piece",  "ingredient": "egg", "protein": "31.200", "fat": "21.600", "calories": "312.000", "cost": "1.15"},
+        { "amount": "80",  "unit": "g",  "ingredient": "marmalade", "protein": "0.0", "fat": "0.0", "calories": "253.28", "cost": "1.69"},
+        { "amount": "200",  "unit": "g",  "ingredient": "flour", "protein": "21.200", "fat": "3.000", "calories": "640.400", "cost": "0.89"}
+
+      ]
+    },
+
+    {
+      "name": "Ginger & White Chocolate Cake",
+      "ingredients": [
+        { "amount": "220",  "unit": "g",  "ingredient": "unsalted butter", "protein": "0.0", "fat": "220.000", "calories": "1980.000", "cost": "1.69"},
+        { "amount": "365",  "unit": "g",  "ingredient": "flour", "protein": "38.690", "fat": "5.475", "calories": "1168.730", "cost": "0.89"},
+        { "amount": "200",  "unit": "g",  "ingredient": "sugar", "protein": "0.0", "fat": "0.0", "calories": "800.000", "cost": "1.04"},
+        { "amount": "50",  "unit": "g",  "ingredient": "black treacle", "protein": "0.0", "fat": "0.0", "calories": "155.0", "cost": "1.49"},
+        { "amount": "150",  "unit": "g",  "ingredient": "golden syrup", "protein": "0.0", "fat": "0.0", "calories": "600.000", "cost": "1.89"},
+        { "amount": "2",  "unit": "piece",  "ingredient": "egg", "protein": "15.600", "fat": "10.800", "calories": "156.000", "cost": "0.8"},
+        { "amount": "600",  "unit": "ml",  "ingredient": "milk", "protein": "2.400", "fat": "7.200", "calories": "84.000", "cost": "1.15"},
+        { "amount": "2",  "unit": "balls",  "ingredient": "stem ginger in syrup", "protein": "0.770", "fat": "2.975", "calories": "19.215", "cost": "2.59"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "sea salt", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "0.0"},
+        { "amount": "3",  "unit": "tsp",  "ingredient": "ground ginger", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "2.99"},
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "cinnamon", "protein": "0.114", "fat": "0.028", "calories": "2.840", "cost": "1.03"},
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "bicarbonate of soda", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "1.79"},
+        { "amount": "160",  "unit": "g",  "ingredient": "icing sugar", "protein": "0.0", "fat": "0.0", "calories": "680.000", "cost": "1.49"},
+        { "amount": "150",  "unit": "g",  "ingredient": "white chocolate", "protein": "15.000", "fat": "75.000", "calories": "900.000", "cost": "1.29"}
+
+      ]
+    },
+
+    {
+      "name": "Chocolate Fridge Cake",
+      "ingredients": [
+        { "amount": "225",  "unit": "g",  "ingredient": "mixed dried fruit", "protein": "5.850", "fat": "0.900", "calories": "687.600", "cost": "3.49"},
+        { "amount": "110",  "unit": "ml",  "ingredient": "brandy", "protein": "0.0", "fat": "0.0", "calories": "207.00", "cost": "5.49"},
+        { "amount": "300",  "unit": "g",  "ingredient": "dark chocolate", "protein": "30.000", "fat": "90.000", "calories": "1500.000", "cost": "1.49"},
+        { "amount": "125",  "unit": "g",  "ingredient": "butter", "protein": "0.0", "fat": "125.000", "calories": "1125.000", "cost": "2.15"},
+        { "amount": "3",  "unit": "tbsp",  "ingredient": "golden syrup", "protein": "0.0", "fat": "0.0", "calories": "168.000", "cost": "1.89"},
+        { "amount": "13",  "unit": "piece",  "ingredient": "digestive biscuits", "protein": "0.0", "fat": "3.1", "calories": "300.00", "cost": "1.09"},
+        { "amount": "100",  "unit": "g",  "ingredient": "toasted flaked almonds", "protein": "21.100", "fat": "49.900", "calories": "579.000", "cost": "1.99"}
+
+      ]
+    },
+
+    {
+      "name": "Carrot Cake",
+      "ingredients": [
+        { "amount": "175",  "unit": "g",  "ingredient": "sugar", "protein": "0.0", "fat": "0.0", "calories": "700.000", "cost": "1.04"},
+        { "amount": "175",  "unit": "ml",  "ingredient": "sunflower oil", "protein": "0.0", "fat": "175.000", "calories": "1575.000", "cost": "2.49"},
+        { "amount": "3",  "unit": "piece",  "ingredient": "egg", "protein": "7.800", "fat": "5.400", "calories": "78.000", "cost": "1.4"},
+        { "amount": "140",  "unit": "g",  "ingredient": "carrot", "protein": "1.400", "fat": "0.700", "calories": "46.480", "cost": "1.09"},
+        { "amount": "100",  "unit": "g",  "ingredient": "raisins", "protein": "0.028", "fat": "0.004", "calories": "2.966", "cost": "2.24"},
+        { "amount": "1",  "unit": "piece",  "ingredient": "orange zest", "protein": "0.0", "fat": "0.0", "calories": "27.2", "cost": "0.6"},
+        { "amount": "175",  "unit": "g",  "ingredient": "flour", "protein": "18.550", "fat": "2.625", "calories": "560.350", "cost": "0.89"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "cinnamon", "protein": "0.228", "fat": "0.057", "calories": "5.690", "cost": "1.03"},
+        { "amount": "1/2",  "unit": "tsp",  "ingredient": "grated nutmeg", "protein": "0.284", "fat": "1.136", "calories": "14.200", "cost": "1.99"},
+        { "amount": "175",  "unit": "g",  "ingredient": "icing sugar", "protein": "0.0", "fat": "0.0", "calories": "700.000", "cost": "1.49"},
+        { "amount": "2",  "unit": "tbsp",  "ingredient": "orange juice", "protein": "17.000", "fat": "17.000", "calories": "11.200", "cost": "2.29"}
+
+      ]
+    },
+
+    {
+      "name": "Cheesecake",
+      "ingredients": [
+        { "amount": "170",  "unit": "g",  "ingredient": "cracker crumbs", "protein": "17.000", "fat": "17.000", "calories": "680.000", "cost": "2.99"},
+        { "amount": "1",  "unit": "tbs",  "ingredient": "brown sugar", "protein": "0.0", "fat": "0.0", "calories": "68.000", "cost": "1.29"},
+        { "amount": "7",  "unit": "tbs",  "ingredient": "butter", "protein": "0.0", "fat": "119.000", "calories": "1071.000", "cost": "1.69"},
+        { "amount": "910",  "unit": "g",  "ingredient": "cream cheese", "protein": "56.420", "fat": "313.040", "calories": "3185.000", "cost": "1.69"},
+        { "amount": "220",  "unit": "g",  "ingredient": "sugar", "protein": "0.0", "fat": "0.0", "calories": "880.000", "cost": "1.04"},
+        { "amount": "160",  "unit": "g",  "ingredient": "sour cream", "protein": "4.000", "fat": "30.560", "calories": "320.000", "cost": "0.99"},
+        { "amount": "1",  "unit": "tbs",  "ingredient": "vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "15", "cost": "0.6"},
+        { "amount": "1/8",  "unit": "tbs",  "ingredient": "salt", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "0.0"},
+        { "amount": "4",  "unit": "piece",  "ingredient": "egg", "protein": "31.200", "fat": "21.600", "calories": "312.000", "cost": "1.15"}
+
+      ]
+    },
+
+    {
+      "name": "Tiramisu",
+      "ingredients": [
+        { "amount": "240",  "unit": "ml",  "ingredient": "heavy cream", "protein": "7.920", "fat": "14.880", "calories": "213.600", "cost": "1.39"},
+        { "amount": "230",  "unit": "g",  "ingredient": "mascarpone", "protein": "23.0", "fat": "115.0", "calories": "920.000", "cost": "1.75"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "15", "cost": "0.6"},
+        { "amount": "240",  "unit": "ml",  "ingredient": "cold espresso", "protein": "12.0", "fat": "129.600", "calories": "1464.000", "cost": "3.99"},
+        { "amount": "3",  "unit": "tbs",  "ingredient": "coffe flavored liqueur", "protein": "0.0", "fat": "3.1", "calories": "175", "cost": "5.29"},
+        { "amount": "1",  "unit": "package",  "ingredient": "fingers", "protein": "25.000", "fat": "25.000", "calories": "750.000", "cost": "1.15" },
+        { "amount": "1",  "unit": "tbs",  "ingredient": "cocoa powder", "protein": "3.400", "fat": "1.700", "calories": "71.400", "cost": "2.99"}
+
+      ]
+    },
+
+    {
+      "name": "Banana cake ",
+      "ingredients": [
+        { "amount": "240",  "unit": "g",  "ingredient": "banana", "protein": "3.120", "fat": "0.720", "calories": "265.440", "cost": "0.69"},
+        { "amount": "2",  "unit": "tbs",  "ingredient": "lemon juice", "protein": "0.118", "fat": "0.207", "calories": "10.768", "cost": "1.35" },
+        { "amount": "720",  "unit": "g",  "ingredient": "flour", "protein": "76.320", "fat": "10.800", "calories": "2305.440", "cost": "0.89"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "baking soda", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "0.0" },
+        { "amount": "1/4",  "unit": "tsp",  "ingredient": "salt", "protein": "0.0", "fat": "0.0", "calories": "0.0", "cost": "0.0"},
+        { "amount": "480",  "unit": "g",  "ingredient": "white sugar", "protein": "0.0", "fat": "0.0", "calories": "1920.000", "cost": "1.4" },
+        { "amount": "300",  "unit": "g",  "ingredient": "butter", "protein": "0.0", "fat": "300", "calories": "2700.000", "cost": "2.15"},
+        { "amount": "3",  "unit": "piece",  "ingredient": "egg", "protein": "7.800", "fat": "5.400", "calories": "78.000", "cost": "1.4"},
+        { "amount": "2",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "30", "cost": "1.25"},
+        { "amount": "240",  "unit": "g",  "ingredient": "buttermilk", "protein": "2.400", "fat": "2.400", "calories": "48.000", "cost": "0.79"},
+        { "amount": "1",  "unit": "package",  "ingredient": "cream cheese", "protein": "12.400", "fat": "68.800", "calories": "700.000", "cost": "1.69"},
+        { "amount": "1",  "unit": "tsp",  "ingredient": "vanilla extract", "protein": "0.0", "fat": "0.0", "calories": "15", "cost": "0.6"},
+        { "amount": "720",  "unit": "g",  "ingredient": "confectioners's sugar", "protein": "0.0", "fat": "0.0", "calories": "2880.000", "cost": "1.09"}
+
+      ]
+    }
+
+  ]
+}

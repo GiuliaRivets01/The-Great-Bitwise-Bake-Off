@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie's Cookbook</title>
+    <!-- Include Swiper CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+            background-size: cover;
+            background-position: center;
+            transition: background-image 0.5s ease-in-out;
+        }
+        #recipe-container {
+            position: relative;
+            width: 60%;
+            height: 50vh; 
+            background: rgba(255, 255, 255, 0.5); 
+            overflow: hidden;
+            border-radius: 50px; 
+        }
+        #recipe-content {
+            position: absolute;
+            top: 20px;
+            left: 50px;
+            right: 50px;
+            color: #000;
+        }
+        #recipe-text {
+            font-size: 22px; 
+            line-height: 1.4; 
+            color: black;
+            
+        }
+        .swiper-container {
+            width: 100%;
+            height: 100%;
+        }
+        .swiper-slide {
+            background-size: cover;
+            background-position: center;
+            background-color: rgba(255, 255, 255, 0.5); 
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div id="recipe-container">
+        <div id="recipe-content">
+            <h2 id="recipe-title"></h2>
+            <p id="recipe-text"></p>
+        </div>
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <!-- Slide 1 -->
+                <div class="swiper-slide" data-title="Lemon Bliss Banana Cake"></div>
+                <!-- Slide 2 -->
+                <div class="swiper-slide" data-title="Chocolate Chunk Oat Delight Cookies"></div>
+                <!-- Slide 3 -->
+                <div class="swiper-slide" data-title="Creamy Banana Cheesecake Bites"></div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
+            <!-- Add Navigation -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </div>
+
+    <!-- Include Swiper JS -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var swiper = new Swiper('.swiper-container', {
+                slidesPerView: 1,
+                spaceBetween: 30,
+                navigation: {
+                    nextEl: '.swiper-button-next',
+                    prevEl: '.swiper-button-prev',
+                },
+                pagination: {
+                    el: '.swiper-pagination',
+                    clickable: true,
+                },
+            });
+
+            // Recipe data
+            var recipes = [
+                {
+                    title: "Lemon Bliss Banana Cake",
+                    text: "Preheat the oven at 200 degrees.\nMix together banana, flour, white sugar, butter, buttermilk, unsalted butter, sugar, buttermilk, in a bowl.\nIn another bowl, beat together lemon juice, flour, salt, egg, vanilla extract, instant coffee granules, eggs, cream cheese, vanilla extract.\nNow combine and mix all the ingredients together.\nSpread the batter into a cake pan.\nBake for 35 minutes."
+                },
+                {
+                    title: "Chocolate Chunk Oat Delight Cookies",
+                    text: "Preheat the oven at 200 degrees.\nMix together butter, sugar, brown sugar, quick-cooking oats, flour, chocolate chips, semisweet chocolate chips, quick-cooking oats, flour, instant vanilla pudding mix, semisweet chocolate chips, flour, in a bowl.\nIn another bowl, beat together egg, vanilla extract, baking soda, salt, vanilla extract, salt.\nChill the cookie dough in the refrigerator for 3 hours.\nNow roll the cookie dough into balls and place them on a baking tray.\nBake for 40 minutes."
+                },
+                {
+                    title: "Creamy Banana Cheesecake Bites",
+                    text: "Preheat the oven at 190 degrees.\nMix together banana, flour, cream cheese, butter, white sugar, butter, and unsalted butter in a bowl.\nIn another bowl, beat together lemon juice, baking soda, egg, baking soda, salt, baking soda, and kosher salt.\nChill the cookie dough in the refrigerator for 3 hours.\nNow roll the cookie dough into balls and place them on a baking tray.\nBake for 35 minutes."
+                }
+            ];
+
+            // Set initial content
+            updateRecipeContent(0);
+            updateBackgroundImage(1);
+
+            // Update content and background on slide change
+            swiper.on('slideChange', function () {
+                var currentIndex = swiper.activeIndex;
+                updateRecipeContent(currentIndex);
+                updateBackgroundImage(currentIndex + 1); // Slide indices start from 1
+            });
+
+            function updateRecipeContent(index) {
+                var recipe = recipes[index];
+
+                // Update recipe content
+                document.getElementById('recipe-title').innerText = recipe.title;
+                document.getElementById('recipe-text').innerText = recipe.text;
+            }
+
+            function updateBackgroundImage(index) {
+                document.body.style.backgroundImage = `url('recipe_photos/img${index}.png')`;
+            }
+        });
+    </script>
+</body>
+</html>
